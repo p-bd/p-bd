@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben aka @p-bd
-- 👀 I’m interested in WebApp Security and Automation
-- 🌱 I’m currently learning SOAR Playbook Development
-- 💞️ I’m looking to collaborate on SOAR Playbooks, Nuclei Templates and more... :)
+- 👀 a Security Enthusiast and Automation Fanatic </>
+- 🌱 I’m currently learning XSOAR Playbook Development
+- 💞️ I’m looking to collaborate on XSOAR Playbooks, Security Automation Tools and more... :)
 - 📫 How to reach me, just drop an email to benatpost@gmail.com
 
 <!---
