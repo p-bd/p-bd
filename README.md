@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben aka @p-bd
+- 👋 Hi, I’m Ben aka @bdasec
 - 👀 a Security Enthusiast and Automation Fanatic </>
 - 🌱 I’m currently learning XSOAR Playbook Development
 - 💞️ I’m looking to collaborate on XSOAR Playbooks, Security Automation Tools and more... :)
